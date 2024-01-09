@@ -7,11 +7,9 @@
 PyAutoGUI
 ```
 pip install pyautogui
-
 ```
 
 Pandas
 ```
 pip install pandas
-
 ```
